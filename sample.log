@@ -1,0 +1,4 @@
+DEBUG:Adafruit_MotorHAT.Adafruit_PWM_Servo_Driver:Reseting PCA9685 MODE1 (without SLEEP) and MODE2
+ERROR:__main__:[Errno 121] Remote I/O error
+DEBUG:Adafruit_MotorHAT.Adafruit_PWM_Servo_Driver:Reseting PCA9685 MODE1 (without SLEEP) and MODE2
+ERROR:__main__:[Errno 121] Remote I/O error
